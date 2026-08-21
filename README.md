@@ -6,7 +6,7 @@
 ### Задача 1
 
 #### Файлы Terraform
-https://github.com/SLzDevOps/neto-teraform15-2/tree/main
+https://github.com/SLzDevOps/neto-teraform15-3
 
 
 ![alt text](https://github.com/SLzDevOps/neto-teraform15-2/blob/main/Screenshots/Screenshot_1077.png).
